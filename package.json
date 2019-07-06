@@ -1,0 +1,36 @@
+{
+  "name": "appweb_saint",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "bootstrap": "^4.3.1",
+=======
+    "boostrap": "^2.0.0",
+>>>>>>> appweb/01/vl/Crear_datatable
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.4.1",
+    "morgan": "~1.9.1",
+    "popper.js": "^1.15.0",
+    "pug": "^2.0.4"
+  },
+  "description": "acceso de modulo del erp saint",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VLOPEZ07/demo-repo.git"
+  },
+  "author": "Ing. Victor Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VLOPEZ07/demo-repo/issues"
+  },
+  "homepage": "https://github.com/VLOPEZ07/demo-repo#readme"
+}
